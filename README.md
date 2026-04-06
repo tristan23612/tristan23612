@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/db09c21f-6e26-4a45-b91b-632b4d179e13" width="200" height="200" />
+
+
 ## Hello this is Tristan!
 
 <!--<img width="4285" height="1378" alt="141642462_p0" src="https://github.com/user-attachments/assets/db09c21f-6e26-4a45-b91b-632b4d179e13" />
