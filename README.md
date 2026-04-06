@@ -1,20 +1,12 @@
 <img src="https://github.com/user-attachments/assets/db09c21f-6e26-4a45-b91b-632b4d179e13" width="4285" height="1378" />
 
 
-## Hello this is Tristan!
+## 안녕하세요 Tristan 입니다!
 
-<!--<img width="4285" height="1378" alt="141642462_p0" src="https://github.com/user-attachments/assets/db09c21f-6e26-4a45-b91b-632b4d179e13" />
+- 취미로 코딩을 합니다.
+- 히카리와 노조미를 좋아합니다.
 
-**tristan23612/tristan23612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 언어
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
