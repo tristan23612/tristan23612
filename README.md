@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hello this is Tristan!
 
-<!--
+<!--<img width="4285" height="1378" alt="141642462_p0" src="https://github.com/user-attachments/assets/db09c21f-6e26-4a45-b91b-632b4d179e13" />
+
 **tristan23612/tristan23612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
