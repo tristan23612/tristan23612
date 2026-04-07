@@ -1,7 +1,7 @@
 <p align="center">
 	<a href="https://x.com/3898_Spade/status/2015347869277130989?s=20">
 		<picture>
-			<img alt="Tachibana" src="assets\Tachibana\Tachibana.png">
+			<img alt="Tachibana" src="assets\Tachibana\Tachibana.png" style="width: 500px; height: auto;">
 		</picture>
 	</a>
 	<a href="https://x.com/3898_Spade/status/2026792399683699001?s=20">
