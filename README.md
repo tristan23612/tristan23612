@@ -1,9 +1,11 @@
 <p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="assets\Nozomi\banner_nozomi_dark.png">
-		<img alt="Nozomi" src="assets\Nozomi\banner_nozomi_light.png">
-		<href="https://x.com/3898_Spade/status/2026792399683699001?s=20">
-	</picture>
+	<a href="https://x.com/3898_Spade/status/2026792399683699001?s=20">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="assets\Nozomi\banner_nozomi_dark.png">
+			<img alt="Nozomi" src="assets\Nozomi\banner_nozomi_light.png">
+			<href="https://x.com/3898_Spade/status/2026792399683699001?s=20">
+		</picture>
+	</a>
 </p>
 
 ## 안녕하세요 Tristan 입니다!
