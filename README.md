@@ -1,9 +1,13 @@
 <p align="center">
+	<a href="https://x.com/3898_Spade/status/2015347869277130989?s=20">
+		<picture>
+			<img alt="Tachibana" src="assets\Tachibana\Tachibana.png">
+		</picture>
+	</a>
 	<a href="https://x.com/3898_Spade/status/2026792399683699001?s=20">
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="assets\Nozomi\banner_nozomi_dark.png">
 			<img alt="Nozomi" src="assets\Nozomi\banner_nozomi_light.png">
-			<href="https://x.com/3898_Spade/status/2026792399683699001?s=20">
 		</picture>
 	</a>
 </p>
