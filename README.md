@@ -1,5 +1,11 @@
 <img src="https://github.com/user-attachments/assets/db09c21f-6e26-4a45-b91b-632b4d179e13" width="4285" height="1378" />
-
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="assets\Nozomi\banner_nozomi_dark.png">
+		<img alt="Nozomi" src="assets\Nozomi\banner_nozomi_light.png">
+		<href="https://x.com/3898_Spade/status/2026792399683699001?s=20">
+	</picture>
+</p>
 
 ## 안녕하세요 Tristan 입니다!
 
