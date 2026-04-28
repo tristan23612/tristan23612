@@ -5,11 +5,6 @@
 			<img alt="Nozomi" src="assets\Nozomi\banner_nozomi_light.png">
 		</picture>
 	</a>
-	<a href="https://x.com/3898_Spade/status/2015347869277130989?s=20">
-		<picture>
-			<img alt="Tachibana" src="assets\Tachibana\Tachibana.png" style="width: 500px; height: auto;">
-		</picture>
-	</a>
 </p>
 
 ## 안녕하세요 Tristan 입니다!
